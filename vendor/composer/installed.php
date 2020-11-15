@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'd24f4f3e2f8b1dbdd18c3c74214f71691343e591',
     'name' => '__root__',
   ),
   'versions' => 
   array (
     '__root__' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'd24f4f3e2f8b1dbdd18c3c74214f71691343e591',
     ),
     'guzzlehttp/guzzle' => 
     array (
@@ -80,6 +80,15 @@
       array (
       ),
       'reference' => '120b605dfeb996808c31b6477290a714d356e822',
+    ),
+    'symfony/css-selector' => 
+    array (
+      'pretty_version' => 'v3.4.46',
+      'version' => '3.4.46.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'da3d9da2ce0026771f5fe64cb332158f1bd2bc33',
     ),
     'symfony/dom-crawler' => 
     array (
